@@ -1,10 +1,10 @@
 # Assignment 3 - Master Detail Beverage List with Fragments
 
-## Due: Date
+## Due: 03-19-2020
 
 ## Author
 
-
+David Barnes
 
 ## Description
 
@@ -68,7 +68,9 @@ Through File System:   app/src/main/res/raw/
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
+
+None
 
